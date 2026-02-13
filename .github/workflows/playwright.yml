@@ -10,7 +10,7 @@ jobs:
       - name: Checkout repo
         uses: actions/Checkout@v2
       - name : say hello
-        uses : echo hello
+        run : echo hello
 #playwright.yml
 #playwright.yml
 #playwright.yml
